@@ -6,11 +6,11 @@ $address = "Brgy. Sampaloc, Apalit, Pampanga";
 $hobbies = "Dancing, Playing music, Singing";
 $pet_peeve = "Walking with one's head down";
 
-echo $name . "\n";
-echo $age . "\n";
-echo $Address . "\n";
-// echo $Hobbies . "\n";
-// echo $Pet_peeve . "\n";
+echo $name . "\br";
+echo $age . "\br";
+echo $Address . "\br";
+// echo $Hobbies . "\br";
+// echo $Pet_peeve . "\br";
 
 define("NAME", "Louie David Tubat");
 define("AGE", "22");
@@ -18,11 +18,11 @@ define("ADDRESS", "Brgy. Sampaloc, Apalit, Pampanga");
 define("HOBBIES", "Dancing, Playing music, Singing");
 define("PET_PEEVE", "Walking with one's head down");
 
-echo NAME . "\n";
-echo AGE . "\n";
-echo ADDRESS . "\n";
-echo HOBBIES . "\n";
-echo PET_PEEVE . "\n";
+echo NAME . "\br";
+echo AGE . "\br";
+echo ADDRESS . "\br";
+echo HOBBIES . "\br";
+echo PET_PEEVE . "\br";
 
 var_dump(NAME);
 var_dump(AGE);
